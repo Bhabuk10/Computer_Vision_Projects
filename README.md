@@ -22,6 +22,7 @@ This project aims to build a pothole detection system using YOLOv8 on a custom d
 2. **Install Required Libraries**:
     ```bash
     pip install ultralytics==8.0.20
+<<<<<<< HEAD
     pip install roboflow
 
 
@@ -42,3 +43,6 @@ To include images in your README file, you need to upload the images to your rep
     ```
 
 Replace `images/predicted_pothole1.jpg`, `images/predicted_pothole2.jpg`, and `images/predicted_pothole3.jpg` with the actual paths to your images.
+=======
+    pip install roboflow
+>>>>>>> e071d416c0e9f999d0a65476731ddd9523c288a4
